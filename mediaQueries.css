@@ -146,8 +146,6 @@
 }
 
 
-
-
 /* Mobile medium */
 
 @media (max-width: 375px){
@@ -289,10 +287,7 @@
   display: flex;
   padding-bottom: 75px;
 }
-
-
   }
-
 
 
 /* Mobile small */
